@@ -1,0 +1,85 @@
+@media only screen and (max-width: 1025px) {
+    .manu {
+      display: none;
+    }
+    .burgerManu{
+        display: block;
+    }
+    .close{
+        display: none;
+    }
+    .mid ul{
+        display: block;
+    }
+    .logo {
+      margin: 12px 0px;
+    }
+    .right button {
+      display: none;
+    }
+    .right i{
+        padding: 0px 12px;
+      display: block;
+      margin: 12px 0px;
+      font-size: 21px;
+    }
+    .homeNev {
+      padding: 0px 12px;
+      justify-content: space-between;
+    }
+    .textContent h1 {
+      font-size: 57px;
+      margin: 26px 0px;
+    }
+    .homePhone {
+      left: 130px;
+      bottom: 125px;
+    }
+    .wishlistManu{
+        /* display: none; */
+    }
+    .mid{
+        overflow: scroll;
+        height: 50vh;
+    }
+    .dropdown{
+        right: 118px;
+        top: 33px;
+    }
+  }
+  @media only screen and (max-width: 580px) {
+      .textItem{
+          display: block;
+          margin: 50px 0px;
+          text-align: center;
+      }
+      .text-1{
+          max-width: 100%;
+          
+      }
+      .text-2{
+          max-width: 100%;
+      }
+      .light h1{
+          font-size: 60px;
+          max-width: 100%;
+      }
+      .dark h1{
+          font-size: 50px;
+      }
+      .dark{
+          bottom: 50px;
+      }
+   
+  }
+  
+  @media only screen and (max-width: 280px) {
+    .homePhone {
+      left: 93px;
+      bottom: 93px;
+    }
+    .textContent h1 {
+      font-size: 47px;
+      margin: 26px 0px;
+    }
+  }

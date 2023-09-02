@@ -1,0 +1,11 @@
+{
+  "name": "a-e-commerce-websites-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrept.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
